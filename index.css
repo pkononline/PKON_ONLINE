@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'BMJUA';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/BMJUA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    background-image: url(./src/img/background.jpg);
+}
+.in{
+    text-indent: 30px;
+    color: white;
+    font-family: 'BMJUA';
+}
+
+li{
+    font-family: 'BMJUA';
+    text-indent: 30px;
+    list-style-image: url(./src/img/mclogo.png);
+    color: white;
+    font-size: 22px;
+}
+
+table{
+    text-align: center;
+    color: white;
+}
+
+h1{
+    color: white;
+    font-family: 'BMJUA';
+}
+
+table, td, th{
+    width: 667px;
+    height: 50px;
+    border: 1px solid white;
+    border-collapse: collapse;
+    font-family: 'BMJUA';
+    margin: 32px;
+    font-weight: 50px;
+    font-size: 18px
+}
+
+p{
+    font-family: 'BMJUA';
+    font-size: 32px;
+    color: white;
+}
