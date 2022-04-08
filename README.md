@@ -4,7 +4,7 @@
 
 ## 소스를 사용하는 페이지
 - 이 소스를 사용하는 페이지는 Gitub Pages 서비스를 이용하여 운영하고 있습니다.
-- 해당 페이지는 [여기](https://pkononline.github.io/PKON_ONLINE/index.html){:target="_blank"}에서 확인하실수 있습니다.
+- 해당 페이지는 [여기](https://pkononline.github.io/PKON_ONLINE/index.html){:target="\_blank"}에서 확인하실수 있습니다.
 
 ## 페이지 개발자
 - 이름: 박부근
